@@ -27,7 +27,7 @@
         "zivtech/bear": "~8.2.0-alpha10",
         "oomphinc/composer-installers-extender": "^1.1",
         "enyo/dropzone": "^5.1",
-        "ckeditor/ckeditor": "^4.7"
+        "ckeditor/ckeditor": "^dev-full/4.5.x"
     },
     "repositories": [
         {
